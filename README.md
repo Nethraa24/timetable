@@ -133,7 +133,7 @@ Execute the program
 
 
 
-##client output:
+## client output:
 
 ![image](https://github.com/Nethraa24/timetable/assets/121215786/c0ecb36f-5615-4912-b718-d688df6318c0)
 
